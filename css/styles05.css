@@ -1,0 +1,43 @@
+/* Name: Nishant Thokar
+ Date: 27th July, 2024 */
+
+/* Style for body specifies a background color */
+body {
+	background-color: #FF9933;
+}
+
+/* Style to create a fluid image */
+/* This stylesheet was created by: [Your Name], [Today's Date] */
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+#container {
+    width: 100%;
+    /* other styles */
+}
+
+
+/* Style for the header specifies top margin, background color, rounded corners, and center align content */
+header {
+	font-family: Verdana, Arial, sans-serif;
+	margin-top: 0.2em;
+	text-align: center;
+}
+
+/* Style for the main specifies a block display, text properties, margins, padding, rounded corners, and borders  */
+main {
+	display: block;
+	margin-top: 0.5em;
+	padding: 1em;
+	border-radius: 1em;
+	background-color: #FFFFFF;
+}
+
+/* Style for the footer specifies font size, text alignment, and top margin */
+footer {
+	font-size: .70em;
+	text-align: center;
+	margin-top: 2em;
+}
